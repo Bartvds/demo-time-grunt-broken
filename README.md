@@ -1,4 +1,4 @@
-# demo-time-grunt-hang
+# demo-time-grunt-broken
 
 Quick demo to show how `time-grunt` is not working on `grunt v0.4.2`
 
