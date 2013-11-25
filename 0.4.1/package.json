@@ -10,10 +10,10 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "grunt": "0.4.2",
+    "grunt": "0.4.1",
     "time-grunt": "~0.2.3"
   },
   "peerDependencies": {
-    "grunt": "~0.4.2"
+    "grunt": "0.4.1"
   }
 }
